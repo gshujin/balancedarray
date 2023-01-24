@@ -7,3 +7,5 @@ integer k, the two occurrences of k in P are separated by k other integers. For 
 P = [3, 1, 2, 1, 3, 2]
 
 is balanced because there is 1 integer between the two 1s, two integers between the two 2s and 3 integers between the two 3s. 
+
+The problem is solved using a backtracking approach here. 
